@@ -1,0 +1,5 @@
+Backup
+	Registry
+	Windows Backup
+EULA
+Software Installation

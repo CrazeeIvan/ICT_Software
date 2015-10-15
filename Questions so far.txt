@@ -1,5 +1,18 @@
+EULA
+	Name 3 things mentioned in the EULA
 Backup
 	Registry
 	Windows Backup
-EULA
+		Saving to a drive
+		Backup is complete
+		May be asked to scan
+		Anti-virus installed
 Software Installation
+	anti-virus
+	office
+	malware
+
+
+D_V3.pdf specifically mentions these programs but C_V5.pdf mentions deploying software, and scanning for a virus; so isn't much of a stretch to assume that these programs are required there too.
+
+The problem is I'm not sure how much of this is him showing us how to setup what we need to do the assignment, and how much we need to do the assignment. Plus he has stopped saying, "hint".

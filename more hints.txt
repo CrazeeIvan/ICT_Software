@@ -1,0 +1,52 @@
+<<<***Screenshots***>>>
+Don't resize
+install guest additions
+	set clipboard to bidirectional
+bullet pointed as possible
+share setup that we can write to, to submit documents
+
+
+install operating system for someone
+	install certain software
+		Office
+			Open Office
+		anti-virus
+			Microsoft Security Essentials
+		anti-malware
+			Malware Bytes
+
+What are the minimum system requirements, does the computer meet the minimum requirements. Please note any failure to meet system requirements. If it had failed, did you require anything to fix this.
+
+Record hardware and system configuration
+	hw32_361
+
+OS
+system capacity
+version pack, updates installed
+	installed programs list
+		belarch advisor
+		advisorinstaller
+Restore point
+
+verify is there any data on the OS
+	back-up the data
+		add a hard-drive in virtualbox and back-up from one drive to the other.
+		scan the back-up for virus
+
+show Windows OS having been installed
+
+Why would you use a network installation instead of a dvd
+state how different installs would impact the user
+
+Why would you install to custom location
+	partitions or multiple disks
+	dissimilar drives
+	install for shared use
+	control of the custom location by use of rights or permissions
+	business requirements
+
+
+Installation plan
+	system capacity
+	license registration
+	monitor the installation

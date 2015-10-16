@@ -1,0 +1,130 @@
+﻿Task A – Plan and prepare for software installation
+1	Using the workstation’s BIOS, record the hardware specification and system configuration of the workstation on your installation record.
+		hw32_361
+		advisorinstaller
+			Record Processor speed/number of cores/32-bit or 64-bit/etc.
+
+2	Record the Operating System type, version number and any service packs installed.
+		hw32_361
+		advisorinstaller
+			Record OS type (Windows 7/Windows 2008 server/Linux etc.)
+
+3	Identify and record any software applications installed.
+			See attached documents. Write down anything you install.
+
+4	Identify any existing data residing on the workstation and make a backup copy.
+	Scan the backup for viruses/malware.
+		Screenshot c:\ drive or my documents and make a note of "the data residing on the workstation"
+			Create a back-up using Windows back-up tool
+			Take screenshots to prove you have made a back-up copy	
+
+5	From the software list supplied by the assessor, make a record of the software applications and operating system you are going to install noting the:
+		• publisher
+		• title and version
+		• licence type and conditions
+		• licence key and details
+		• required configuration settings
+		• manufacturer’s minimum system requirements.
+
+	Google the names of the programs, to find out the specific details.
+		Office solution = Apache Open Office	(Apache_OpenOffice_4.1.1_Win_x86_install_en-GB)
+		Anti-virus	= Microsoft security essentials (mseinstall)
+		Malware removal = Malware Bytes (mbam-setup-2.1.8.1057)
+
+6	Identify any failure to meet the manufacturer’s MSR. Obtain and install appropriate components to rectify the problem.
+			There should be no failures to meet the manufacturer's MSR (Minimum system requirements) if you have any problems with that then change your Virtual Machine (VM) details so that it meets the min specifications.
+
+7	Produce an installation and test plan for the software stating the:
+	• order of installation
+	• type of installation
+	• installation file location
+	• post-installation checks
+	• system capacity checks
+	• licence key/registration requirement.
+Identify the resources required for the installation and ensure they are suitable.
+
+			Create a table with these headings, and then list the order they were installed etc.
+
+ 
+Task B – Install, configure and record software installation
+1	Install, configure and test the client Operating System using the settings provided by the Assessor.
+			Create a new windows 7 Virtual Machine.
+
+2	Configure the server to deploy automatically the software applications, provided by the Assessor, over the network. Transfer the installation files. This will most likely happen locally, and be under the Assessor’s instruction.
+			Create a new Windows 2008 server Virtual Machine.
+			Install Guest additions
+			Create a shared folder from the host computer where the software is located
+			Open Network from 'My computer' on the Virtual computer and copy the files over
+
+3	Please use the Answer Sheet provided to complete Task B3.
+	Record the configuration settings of the automated deployment software.
+			Screenshot the windows share
+
+4	Following the installation plan you produced in Task A3, install each of the software applications and configure them as directed by the Assessor:
+	• Office suite
+	• Anti-virus
+	• Anti-malware.
+	Please use the Answer Sheet provided to explain the difference(s) between an upgrade and a full installation of an operating system.
+			As written
+
+5	Record the configuration details for each application.
+	• Office suite
+	• Anti-virus
+	• Anti-malware.
+
+6	Install any necessary upgrades/service packs for both Operating System and application software (Office Suite).
+			Not applicable to Apache so we can skip this part.
+
+7	Monitor the installation of the software, identifying and recording any problems and resolutions.
+			As written
+
+8	Following the test plan you produced in Task A3, check each of the installed items of software and the OS for correct installation and operation. Record the results.
+			As written
+
+9	Download and install a second web browser using the default settings. (Install two different browsers if none already existed using default settings for each).
+			Create a windows restore point and then using ChromeStandaloneSetup from the s:\fit drive to install the browser. Use Internet explorer as the default browser.
+
+10	Identify and document configuration changes made by the installation of the second browser.
+			Screenshot installed programs
+			
+11	Restore to the original settings any system and user configuration changes made by the second browser installation.
+	Record any changes made.
+			Using the windows restore point created in 9, restore computer to before installing chrome. 			
+
+
+Task C – Collate installation records and knowledge questions
+1	Assemble all of the records into one installation report, including any corrective actions you took.
+			As written
+2	Please use the Answer Sheet provided to complete Task C2.
+	Identify how types of installation media affect installation processes and times.
+		Compare DVD, installation and automatic deployment
+			Consider network traffic, time to install, cost
+
+3	Please use the Answer Sheet provided to complete Task C3.
+	Explain the importance of protecting existing software and data.
+			Write about the importance of software/data integrity and data
+
+4	Please use the Answer Sheet provided to complete Task C4.
+	When installing software applications, give three reasons why it may be necessary to use a ‘custom’ location for the files instead of the default one and explain the difference between a full installation of software and a custom 	installation.
+			Partition, hardware requirements, organisational requirement, installing to a shared folder			
+
+5	Please use the Answer Sheet provided to complete Task C5.
+	Explain the difference between registering propriety software against that of registering freeware or shareware software.
+			Explain the advantages and disadvantages between proprietary, freeware and shareware software.
+
+6	Please use the Answer Sheet provided to complete Task C6.
+	Explain why it is important to maintain accurate records of installations.
+			As written			
+
+7	Please use the Answer Sheet provided to complete Task C7.
+	Explain how effective and timely installation of approved software could improve customer satisfaction.
+			As written						
+
+
+
+
+When you have finished working:
+• Copy to \\F06-00\7540-362
+• Hand all paperwork to your assessor.
+
+End of assignment
